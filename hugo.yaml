@@ -22,7 +22,7 @@ menu:
       pageRef: /docs
       weight: 1
     - name: Credits
-      pageRef: /about
+      pageRef: /credits
       weight: 2
     - name: Search
       weight: 3
