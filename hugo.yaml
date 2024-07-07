@@ -48,7 +48,7 @@ params:
     displayLogo: true
 
   footer:
-    displayCopyright: true
+    displayCopyright: false
     displayPoweredBy: false
 
   editURL:
