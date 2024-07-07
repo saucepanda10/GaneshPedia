@@ -2,19 +2,19 @@
 title: Credits
 type: credit
 ---
-
 # Credits
 
----
-###          A Orange Labs Project 
----
-### 
-###   THE IDEA MACHINE  : BS Raagul
+| Roles| Person|
+|--|--|
+|Idea Creator / God | BS Raagul |
+|QA Tester| Sushil Haribabu|
+|Fact Checker|Nikhilesh Vijayakumar|
+|Lead Developer |Govind Menon |
+|Lead Graphic Designer |Kavin M |
 
-###             Writers : Sushil Haribabu
-###                       Nikhilesh Vijayakumar
 
-### Head of Development : Govind Menon
 
-###      Head of Design : Kavin M
+
+
+
 
