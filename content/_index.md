@@ -14,7 +14,7 @@ Welcome to the Encyclopedia of Ganesh, your ultimate online destination for ever
 
 ## Credits
 ```
-A Orange Labs Project 
+          A Orange Labs Project 
 
 Colour Design Liason : BS Raagul
              Writers : Sushil Haribabu
