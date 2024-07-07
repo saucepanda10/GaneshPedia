@@ -1,6 +1,6 @@
 ---
 title: Credits
-type: about
+type: credit
 ---
 
 This is the about page.
