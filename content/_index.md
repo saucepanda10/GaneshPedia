@@ -12,16 +12,4 @@ Welcome to the Encyclopedia of Ganesh, your ultimate online destination for ever
   {{< card link="about" title="Credits" icon="user" >}}
 {{< /cards >}}
 
-## Credits
 
-###          A Orange Labs Project 
-### 
-###   THE IDEA MACHINE  : BS Raagul
-###             Writers : Sushil Haribabu
-###                       Nikhilesh Vijayakumar
-### Head of Development : Govind Menon
-###      Head of Design : Govind Menon
-###   Backend Developer : Govind Menon
-###  Frontend Developer : Govind Menon
-###       Legal Council : haha you thought?
-                     
