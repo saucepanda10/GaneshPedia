@@ -13,7 +13,7 @@ Welcome to the Encyclopedia of Ganesh, your ultimate online destination for ever
 {{< /cards >}}
 
 ## Credits
-
+```
 A Orange Labs Project 
 
 Colour Design Liason : BS Raagul
@@ -25,4 +25,4 @@ Colour Design Liason : BS Raagul
    Backend Developer : Govind Menon
   Frontend Developer : Govind Menon
        Legal Council : haha you thought?
-                       
+```                       
