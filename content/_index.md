@@ -17,7 +17,6 @@ Welcome to the Encyclopedia of Ganesh, your ultimate online destination for ever
 A Orange Labs Project 
 
 Colour Design Liason : BS Raagul
-
              Writers : Sushil Haribabu
                        Nikhilesh Vijayakumar
 
