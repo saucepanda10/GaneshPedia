@@ -8,8 +8,8 @@ Welcome to the Encyclopedia of Ganesh, your ultimate online destination for ever
 ## Explore
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
+  {{< card link="docs" title="The Encyclopedia" icon="book-open" >}}
+  {{< card link="about" title="Credits" icon="user" >}}
 {{< /cards >}}
 
 ## Credits
