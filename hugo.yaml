@@ -24,6 +24,8 @@ menu:
     - name: Credits
       pageRef: /credits
       weight: 2
+    - name : Syrian Gov.
+      pageRef: https://https://egov.sy/
     - name: Search
       weight: 3
       params:
