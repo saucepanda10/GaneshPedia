@@ -26,8 +26,9 @@ menu:
       weight: 2
     - name : Syrian Gov.
       pageRef: https://https://egov.sy/
+      weight : 3
     - name: Search
-      weight: 3
+      weight: 4
       params:
         type: search
 
