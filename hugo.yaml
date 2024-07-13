@@ -36,8 +36,8 @@ params:
   navbar:
     displayTitle: true
     displayLogo: true
-    
-logo:  
+
+logo:
     path: images/logo.svg
     link: /
     width: 40
@@ -46,8 +46,7 @@ logo:
   footer:
     displayCopyright: true
     displayPoweredBy: false
-    
-  copyright: "Ganeshpedia © 2024 by Orange Labs is licensed under CC BY-NC-SA 4.0 "
+
 
   editURL:
     enable: false
