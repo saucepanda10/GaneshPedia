@@ -37,14 +37,14 @@ params:
     displayTitle: true
     displayLogo: true
     logo:
-      path: ./images/logo.svg
+      path: images/logo.svg
       link: /
       width: 40
       height: 20
 
   footer:
-    displayCopyright: false
-    displayPoweredBy: true
+    displayCopyright: true
+    displayPoweredBy: false
     copyright: "Ganeshpedia © 2024 by Orange Labs is licensed under CC BY-NC-SA 4.0 "
 
   editURL:
