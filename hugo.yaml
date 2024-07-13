@@ -41,7 +41,6 @@ footer:
     displayCopyright: true
     displayPoweredBy: false
 
-
-  editURL:
+editURL:
     enable: false
     base: "If you get redirected here please tell the developers to disable the enable : true in main/hugo.yaml"
