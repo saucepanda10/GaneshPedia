@@ -45,7 +45,8 @@ params:
 
   footer:
     displayCopyright: false
-    displayPoweredBy: false
+    displayPoweredBy: true
+    copyright: "Ganeshpedia © 2024 by Orange Labs is licensed under CC BY-NC-SA 4.0 "
 
   editURL:
     enable: false
