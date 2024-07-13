@@ -37,13 +37,7 @@ params:
     displayTitle: true
     displayLogo: true
 
-logo:
-    path: images/logo.svg
-    link: /
-    width: 40
-    height: 20
-
-  footer:
+footer:
     displayCopyright: true
     displayPoweredBy: false
 
