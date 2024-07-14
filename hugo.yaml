@@ -38,13 +38,12 @@ params:
     displayLogo: true
   logo:
       path: images/logo.svg
-      dark: images/logo-dark.svg
-      link: /
+      dark: images/logo.svg
       width: 40
       height: 20
 
 footer:
-    displayCopyright: true
+    displayCopyright: false
     displayPoweredBy: true
 
 editURL:
