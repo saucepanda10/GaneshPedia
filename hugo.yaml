@@ -37,7 +37,7 @@ params:
     displayTitle: true
     displayLogo: true
   logo:
-      path: static/images/logo.svg
+      path: static/images/logo.png
       width: wide
    
 
