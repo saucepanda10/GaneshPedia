@@ -38,8 +38,11 @@ params:
     displayLogo: true
 
   logo:
-      path: static/images/logo.png
-      width: wide
+      path: images/logo.png
+      dark: images/logo.png
+      link: /
+      width: 20 
+      height: 60
    
 
 footer:
