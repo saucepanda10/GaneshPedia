@@ -31,6 +31,8 @@ menu:
      - name : Syrian Gov.
       url: "https://egov.sy"
       weight : 5
+      params : 
+       icon: syria 
 
 params:
   navbar:
