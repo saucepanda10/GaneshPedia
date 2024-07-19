@@ -24,7 +24,7 @@ menu:
     - name: Credits
       pageRef: /credits
       weight: 2
-      - name: Search
+    - name: Search
       weight: 4
       params:
         type: search
