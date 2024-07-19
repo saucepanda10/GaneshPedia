@@ -38,8 +38,8 @@ params:
     displayLogo: true
 
   logo:
-      path: static/images/logo.png
-      dark: static/images/logo.png
+      path: static/images/logo.svg
+      dark: static/images/logo.svg
       link: /
       width: 80
       height: 100
