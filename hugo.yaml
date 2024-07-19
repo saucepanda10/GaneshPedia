@@ -21,16 +21,19 @@ menu:
     - name: The Encyclopedia
       pageRef: /docs
       weight: 1
+      
     - name: Credits
       pageRef: /credits
       weight: 2
+      
     - name: Search
-      weight: 4
+      weight: 3
       params:
         type: search
-     - name : Syrian Gov.
+        
+    - name : Syrian Gov.
       url: "https://egov.sy"
-      weight : 5
+      weight : 4
       params : 
        icon: syria 
 
