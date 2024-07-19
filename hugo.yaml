@@ -41,8 +41,8 @@ params:
       path: static/images/logo.png
       dark: static/images/logo.png
       link: /
-      width: 20 
-      height: 60
+      width: 80
+      height: 100
    
 
 footer:
