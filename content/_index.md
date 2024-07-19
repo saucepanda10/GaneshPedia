@@ -9,10 +9,10 @@ Welcome to the Encyclopedia of Ganesh, your ultimate online destination for ever
 
 {{< cards >}}
   {{< card link="docs" title="The Encyclopedia" icon="book-open" >}}
-  {{< card link="credits" title="Credits" icon="user" >}}![pasted](https://github.com/user-attachments/assets/a4ce17ad-56f9-44cd-8683-64ddd8dbfa93)
+  {{< card link="credits" title="Credits" icon="user" >}}
 
 {{< /cards >}}
 
 
-![pasted](https://github.com/user-attachments/assets/a4ce17ad-56f9-44cd-8683-64ddd8dbfa93)
+![pasted-removebg-preview](https://github.com/user-attachments/assets/152c3753-8b17-4457-bcbd-addb78c6c36d)
 ###attached the logo but it is low quality
