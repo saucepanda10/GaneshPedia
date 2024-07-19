@@ -24,13 +24,13 @@ menu:
     - name: Credits
       pageRef: /credits
       weight: 2
-    - name : Syrian Gov.
-      url: https://egov.sy
-      weight : 3
-    - name: Search
+      - name: Search
       weight: 4
       params:
         type: search
+     - name : Syrian Gov.
+      url: "https://egov.sy"
+      weight : 5
 
 params:
   navbar:
@@ -38,11 +38,11 @@ params:
     displayLogo: true
 
   logo:
-      path: static/images/logo.png
-      dark: static/images/logo.png
+      path: static/images/logo.svg
+      dark: static/images/logo.svg
       link: /
-      width: 20 
-      height: 60
+      width: 80
+      height: 100
    
 
 footer:
